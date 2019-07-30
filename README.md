@@ -1,10 +1,8 @@
-# React Boilerplate with
-* axios
-* redux
-* react-redux
-* react-router-dom
-* bootstrap scss
-* and eslint dev modules
+# ActuFrance:
+
+## React app fetching news from 
+
+### https://newsapi.org
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
